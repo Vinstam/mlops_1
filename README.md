@@ -1,13 +1,11 @@
 # 
 
-Простейшее приложение на streamlit, который решает задачу классификации научных текстов>_<
-
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gdp-dashboard-template.streamlit.app/)
+Код обучения логистической регрессии для определения принадлежности к товара к некоторому классу.
 
 ### Ссылка на презентация
 
    ```
-   https://disk.yandex.ru/edit/disk/disk%2FMLOps.pptx?source=docs
+   [https://disk.yandex.ru/edit/disk/disk%2FMLOps.pptx?source=docs](https://disk.yandex.ru/i/4571igj5GnjqgA)
    ```
 
 ### Как запустить
@@ -21,5 +19,5 @@
 2. Запустить приложение
 
    ```
-   $ streamlit run streamlit_app.py
+   $ python3 train.py
    ```
